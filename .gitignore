@@ -1,0 +1,21 @@
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas generados por IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Archivos y carpetas generados por Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos y carpetas generados por Git
+.git/
+
+# Log file
+*.log
