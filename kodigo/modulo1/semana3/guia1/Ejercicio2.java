@@ -1,0 +1,7 @@
+package kodigo.modulo1.semana3.guia1;
+
+public class Ejercicio2 {
+    public static void main(String[] args) {
+
+    }
+}
