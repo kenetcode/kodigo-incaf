@@ -1,4 +1,4 @@
-package kodigo.modulo2.semana1.guiasrpprincipioresponsabilidadunica.gestiondefacturas;
+package kodigo.modulo2.semana1.singleresponsibilityprinciple.gestiondefacturas;
 
 import java.util.ArrayList;
 import java.util.List;

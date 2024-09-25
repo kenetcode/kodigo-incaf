@@ -1,4 +1,4 @@
-package kodigo.modulo2.semana1.guiasrpprincipioresponsabilidadunica.gestiondeproductos;
+package kodigo.modulo2.semana1.singleresponsibilityprinciple.gestiondeproductos;
 
 public class CalculoImpuestos {
     double impuesto = 0.20;

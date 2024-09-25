@@ -1,4 +1,4 @@
-package kodigo.modulo2.semana1.guiasrpprincipioresponsabilidadunica.gestiondeempleados;
+package kodigo.modulo2.semana1.singleresponsibilityprinciple.gestiondeempleados;
 
 public class Empleado {
     private String nombre;
