@@ -1,4 +1,4 @@
-package kodigo.modulo2.semana2.openclosedprinciple.notificacionesdiferentescanales.aplicandoprincipio;
+package kodigo.modulo2.semana2.openclosedprinciple.notificaciones.aplicandoprincipio;
 
 public class NotificacionEmail implements Notificacion{
 

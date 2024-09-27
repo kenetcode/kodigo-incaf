@@ -1,4 +1,4 @@
-package kodigo.modulo2.semana2.openclosedprinciple.notificacionesdiferentescanales.malapractica;
+package kodigo.modulo2.semana2.openclosedprinciple.notificaciones.malapractica;
 
 public class SistemaNotificaciones {
     public static void main(String[] args) {
