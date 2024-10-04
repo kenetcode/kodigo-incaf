@@ -1,7 +1,6 @@
 package kodigo.modulo2.semana2.openclosedprinciple.abstractclass.tarifastransporte;
 
 public class TransporteTren extends Transporte{
-
     @Override
     public void calcularTarifa(double distancia) {
         //$5 por kilometro recorrido
