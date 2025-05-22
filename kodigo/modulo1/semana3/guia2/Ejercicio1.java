@@ -16,6 +16,5 @@ public class Ejercicio1 {
         } catch (ArithmeticException e) {
             System.out.println("No se puede dividir entre 0");
         }
-        System.out.println("El resultado de la división es: " + resultado);
     }
 }
